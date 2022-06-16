@@ -7,6 +7,7 @@ The Iot data messages here is from a doby index simulator to randomly generate d
 ![](2.JPG)
 
 Step 1: Open a new PuTTY session or ssh to AWS EC2 instance
+
 Step 2: Process IoT Simulated Device Data Messages Using Spark Kafka IoT Big Data Streaming Python Script.
 
     > cd ${HOME}
