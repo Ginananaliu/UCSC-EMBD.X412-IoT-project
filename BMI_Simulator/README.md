@@ -1,7 +1,7 @@
 ## The Internet of Things:  Big Data Processing
 ### BMI Simulator
 The project is under the restrictions of what a AWS t2.micro is capable of, which limits it to one virtual Xeon core, 1 GB of memory and limited file storage.
-The Iot data messages here is from a doby index simulator to randomly generate data.
+The IoT data messages here are from a body index simulator to randomly generate data.
 
 ![](1.JPG)
 ![](2.JPG)
